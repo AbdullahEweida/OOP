@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\bin\Debug\net9.0\Sec_Finalsheets_4-(School).exe
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\bin\Debug\net9.0\Sec_Finalsheets_4-(School).deps.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\bin\Debug\net9.0\Sec_Finalsheets_4-(School).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\bin\Debug\net9.0\Sec_Finalsheets_4-(School).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\bin\Debug\net9.0\Sec_Finalsheets_4-(School).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\refint\Sec_Finalsheets_4-(School).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\Sec_Finalsheets_4-(School).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_4-(School)\obj\Debug\net9.0\ref\Sec_Finalsheets_4-(School).dll

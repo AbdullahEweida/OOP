@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\bin\Release\net9.0\Sec_Finalsheets_5-(Worker).exe
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\bin\Release\net9.0\Sec_Finalsheets_5-(Worker).deps.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\bin\Release\net9.0\Sec_Finalsheets_5-(Worker).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\bin\Release\net9.0\Sec_Finalsheets_5-(Worker).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\bin\Release\net9.0\Sec_Finalsheets_5-(Worker).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\refint\Sec_Finalsheets_5-(Worker).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\Sec_Finalsheets_5-(Worker).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_5-(Worker)\obj\Release\net9.0\ref\Sec_Finalsheets_5-(Worker).dll

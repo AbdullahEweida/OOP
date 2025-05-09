@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\bin\Release\net9.0\Sec_Finalsheets_7-(Accounts).exe
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\bin\Release\net9.0\Sec_Finalsheets_7-(Accounts).deps.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\bin\Release\net9.0\Sec_Finalsheets_7-(Accounts).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\bin\Release\net9.0\Sec_Finalsheets_7-(Accounts).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\bin\Release\net9.0\Sec_Finalsheets_7-(Accounts).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\refint\Sec_Finalsheets_7-(Accounts).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\Sec_Finalsheets_7-(Accounts).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_7-(Accounts)\obj\Release\net9.0\ref\Sec_Finalsheets_7-(Accounts).dll

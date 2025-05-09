@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\bin\Release\net9.0\Sec_Finalsheets_1-(Bank).exe
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\bin\Release\net9.0\Sec_Finalsheets_1-(Bank).deps.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\bin\Release\net9.0\Sec_Finalsheets_1-(Bank).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\bin\Release\net9.0\Sec_Finalsheets_1-(Bank).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\bin\Release\net9.0\Sec_Finalsheets_1-(Bank).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\refint\Sec_Finalsheets_1-(Bank).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\Sec_Finalsheets_1-(Bank).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_1-(Bank)\obj\Release\net9.0\ref\Sec_Finalsheets_1-(Bank).dll

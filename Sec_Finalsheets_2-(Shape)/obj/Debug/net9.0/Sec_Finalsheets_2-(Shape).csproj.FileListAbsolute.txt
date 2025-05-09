@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\bin\Debug\net9.0\Sec_Finalsheets_2-(Shape).exe
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\bin\Debug\net9.0\Sec_Finalsheets_2-(Shape).deps.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\bin\Debug\net9.0\Sec_Finalsheets_2-(Shape).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\bin\Debug\net9.0\Sec_Finalsheets_2-(Shape).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\bin\Debug\net9.0\Sec_Finalsheets_2-(Shape).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\refint\Sec_Finalsheets_2-(Shape).dll
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).pdb
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\Sec_Finalsheets_2-(Shape).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec_Finalsheets_2-(Shape)\obj\Debug\net9.0\ref\Sec_Finalsheets_2-(Shape).dll
