@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Lec6(sheet 1)\bin\Debug\net9.0\Lec6(sheet 1).exe
+E:\My books\OOP\The Codes\Lec6(sheet 1)\bin\Debug\net9.0\Lec6(sheet 1).deps.json
+E:\My books\OOP\The Codes\Lec6(sheet 1)\bin\Debug\net9.0\Lec6(sheet 1).runtimeconfig.json
+E:\My books\OOP\The Codes\Lec6(sheet 1)\bin\Debug\net9.0\Lec6(sheet 1).dll
+E:\My books\OOP\The Codes\Lec6(sheet 1)\bin\Debug\net9.0\Lec6(sheet 1).pdb
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).dll
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\refint\Lec6(sheet 1).dll
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).pdb
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\Lec6(sheet 1).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Lec6(sheet 1)\obj\Debug\net9.0\ref\Lec6(sheet 1).dll
