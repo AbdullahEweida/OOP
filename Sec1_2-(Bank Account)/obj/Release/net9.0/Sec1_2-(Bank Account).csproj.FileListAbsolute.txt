@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\bin\Release\net9.0\Sec1_2-(Bank Account).exe
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\bin\Release\net9.0\Sec1_2-(Bank Account).deps.json
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\bin\Release\net9.0\Sec1_2-(Bank Account).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\bin\Release\net9.0\Sec1_2-(Bank Account).dll
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\bin\Release\net9.0\Sec1_2-(Bank Account).pdb
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).dll
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\refint\Sec1_2-(Bank Account).dll
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).pdb
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\Sec1_2-(Bank Account).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec1_2-(Bank Account)\obj\Release\net9.0\ref\Sec1_2-(Bank Account).dll
