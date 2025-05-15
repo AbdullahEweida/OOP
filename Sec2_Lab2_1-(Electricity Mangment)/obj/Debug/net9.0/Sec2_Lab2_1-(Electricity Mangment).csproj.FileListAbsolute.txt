@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\bin\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).exe
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\bin\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).deps.json
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\bin\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\bin\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).dll
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\bin\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).pdb
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).dll
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\refint\Sec2_Lab2_1-(Electricity Mangment).dll
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).pdb
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\Sec2_Lab2_1-(Electricity Mangment).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec2_Lab2_1-(Electricity Mangment)\obj\Debug\net9.0\ref\Sec2_Lab2_1-(Electricity Mangment).dll

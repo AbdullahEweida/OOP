@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\bin\Release\net9.0\Sec2_Lab2_2-(Saving Account).exe
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\bin\Release\net9.0\Sec2_Lab2_2-(Saving Account).deps.json
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\bin\Release\net9.0\Sec2_Lab2_2-(Saving Account).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\bin\Release\net9.0\Sec2_Lab2_2-(Saving Account).dll
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\bin\Release\net9.0\Sec2_Lab2_2-(Saving Account).pdb
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).dll
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\refint\Sec2_Lab2_2-(Saving Account).dll
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).pdb
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\Sec2_Lab2_2-(Saving Account).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec2_Lab2_2-(Saving Account)\obj\Release\net9.0\ref\Sec2_Lab2_2-(Saving Account).dll
