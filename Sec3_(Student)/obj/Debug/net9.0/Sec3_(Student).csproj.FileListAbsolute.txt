@@ -1,0 +1,14 @@
+E:\My books\OOP\The Codes\Sec3_(Student)\bin\Debug\net9.0\Sec3_(Student).exe
+E:\My books\OOP\The Codes\Sec3_(Student)\bin\Debug\net9.0\Sec3_(Student).deps.json
+E:\My books\OOP\The Codes\Sec3_(Student)\bin\Debug\net9.0\Sec3_(Student).runtimeconfig.json
+E:\My books\OOP\The Codes\Sec3_(Student)\bin\Debug\net9.0\Sec3_(Student).dll
+E:\My books\OOP\The Codes\Sec3_(Student)\bin\Debug\net9.0\Sec3_(Student).pdb
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).GeneratedMSBuildEditorConfig.editorconfig
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).AssemblyInfoInputs.cache
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).AssemblyInfo.cs
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).csproj.CoreCompileInputs.cache
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).dll
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\refint\Sec3_(Student).dll
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).pdb
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\Sec3_(Student).genruntimeconfig.cache
+E:\My books\OOP\The Codes\Sec3_(Student)\obj\Debug\net9.0\ref\Sec3_(Student).dll
